@@ -1,0 +1,218 @@
+/* Extra small devices (phones, 320px and down) */
+@media only screen and (max-width: 320px) {
+    header{
+        padding: 10px 0;
+    }
+    .menu ul li a {
+        padding: 12px 0 0;
+        text-align: right;
+    }
+    .slider{
+        padding-bottom: 60px;
+    }
+    .c_ind{
+        bottom: -60px;
+    }
+    .c_ind [data-bs-target] {
+        width: 13px;
+        height: 13px;
+    }
+    .s_text{
+        margin-top: 0px;
+    }
+    .s_text h1{
+        font-size: 25px;
+    }
+    .s_text h2{
+        margin: 10px 0;
+        font-size: 18px;
+    }
+    .s_text p{
+        margin-bottom: 20px;
+    }
+    .s_icon ul li{
+        margin-right: 20px !important;
+    }
+    .s_icon ul li i{
+        font-size: 35px;
+    }
+    .c_padding{
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    .c_h1{
+        margin-bottom: 10px;
+        font-size: 25px;
+    }
+    .c_p{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .f_text{
+        text-align: center;
+    }
+
+
+    /* contact start */
+  .contact {
+    padding-top: 40px;
+    padding-bottom: 25px;
+  }
+.c_form {
+    padding-top: 25px;
+    padding-bottom: 35px;
+  }
+.c_email {
+    padding: 5px 10px;
+    height: 40px;
+    font-size: 15px;
+  }
+.c_submit{
+    height: 40px;
+  } 
+.c_icon ul li a i {
+    font-size: 30px;
+  }
+
+/* contact end */
+
+/* footer start */
+footer {
+    padding-bottom: 20px;
+  }
+.f_1 {
+    text-align: center;
+    padding-bottom: 30px;
+  }
+.f_2 {
+    margin-bottom: 40px;
+    text-align: center;
+  }
+/* footer end */
+
+
+}
+
+/* Small devices (portrait tablets and large phones, 576px and up) */
+@media only screen and (min-width: 576px) {
+    .menu ul li a {
+        padding: 12px 0 0;
+        text-align: right;
+    }
+    .slider{
+        padding-bottom: 60px;
+    }
+    .c_ind{
+        bottom: -55px;
+    }
+    .c_ind [data-bs-target] {
+        width: 13px;
+        height: 13px;
+    }
+    .s_text{
+        margin-top: 0px;
+    }
+    .s_text h1{
+        font-size: 25px;
+    }
+    .s_text h2{
+        margin: 10px 0;
+        font-size: 18px;
+    }
+    .s_text p{
+        margin-bottom: 20px;
+    }
+    .s_icon ul li{
+        margin-right: 20px !important;
+    }
+    .s_icon ul li i{
+        font-size: 35px;
+    }
+    .c_padding{
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    .c_h1{
+        margin-bottom: 10px;
+        font-size: 25px;
+    }
+    .c_p{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .f_text{
+        text-align: center;
+    }
+    /* contact start */
+  .contact {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+.c_form {
+    padding-top: 30px;
+    padding-bottom: 55px;
+  }
+.c_email{
+    padding: 10px 15px;
+    height: 45px;
+  }
+.c_submit{
+    height: 45px;
+  }    
+/* contact end */
+
+/* footer start */
+footer {
+    padding-bottom: 70px;
+  }
+.f_1 {
+    text-align: center;
+    padding-bottom: 40px;
+  }
+.f_2 {
+    text-align: center;
+  }
+/* footer end */
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .menu ul li a {
+        padding: 12px 0 0;
+        text-align: right;
+    }
+    .c_padding{
+        padding-top: 80px;
+        padding-bottom: 100px;
+    }
+    .f_item{
+        margin-top: 50px;
+    }
+
+    /* contact start */
+  .contact {
+    padding-top: 70px;
+    padding-bottom: 80px;
+  }
+.c_form {
+    padding-top: 35px;
+    padding-bottom: 60px;
+  }
+/* contact end */
+
+/* footer start */
+footer {
+    padding-bottom: 100px;
+  }
+/* footer end */
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+ 
+}
